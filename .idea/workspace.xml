@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0922a858-fe7f-41a4-9873-893e007c978e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="856d13d7-81d1-4773-81c3-b33ea387204a" name="knowyourbuddy" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPstorm" />
+  <component name="ProjectId" id="1Ok4GuKsEM2heuEERqvNr6aYX8d" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php7.1.9/php.ini" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.results.php">
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="questions.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webproj/questions.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="results.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webproj/results.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="questions.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/questions.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="knowyourbuddy" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" server_name="knowyourbuddy" start_url="/webproj">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Firefox Remote.Unnamed" />
+      <item itemvalue="JavaScript Debug.questions.php" />
+      <item itemvalue="JavaScript Debug.results.php" />
+      <item itemvalue="PHP Script.questions.php" />
+      <item itemvalue="PHP Web Page.knowyourbuddy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.results.php" />
+        <item itemvalue="JavaScript Debug.questions.php" />
+        <item itemvalue="PHP Script.questions.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0922a858-fe7f-41a4-9873-893e007c978e" name="Default Changelist" comment="" />
+      <created>1564508168553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564508168553</updated>
+      <workItem from="1564508175272" duration="2450000" />
+      <workItem from="1564589165025" duration="2039000" />
+      <workItem from="1564765331439" duration="471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/questions.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/questions.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/questions.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/results.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
